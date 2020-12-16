@@ -1,0 +1,228 @@
+<resources>
+    <string name="app_name">SudiTouri</string>
+    //Main
+    <string name="main_ueberschrift_wassererlebnispfad">Wassererlebnispfad</string>
+    <string name="main_ueberschrift_suderburg">Suderburg</string>
+    <string name="main_url">URL</string>
+    <string name="main_url_eingeben">URL eingeben</string>
+    <string name="main_ueberschrift_route">Eigene Route angeben</string>
+    <string name="main_route_1">Route 1 Hardau Fahrradweg</string>
+    <string name="main_route_2">Route 2 Hösseringen - Suderburg</string>
+    <string name="main_route_3">Route 3 Suderburg - Holxen </string>
+    <string name="main_route_4">Route 4 Holxen - Holdenstedt </string>
+    <string name="main_route_5">Route 5 Holdenstedt - Uelzen </string>
+    <string name="main_route_6">Route 6 Hösseringen </string>
+    <string name="main_route_7">Route 7 Suderburg </string>
+
+    <string name="main_route_1_laenge">Länge: 53 km</string>
+    <string name="main_route_2_laenge">Länge: 20 km</string>
+    <string name="main_route_3_laenge">Länge: 7,5 km</string>
+    <string name="main_route_4_laenge">Länge: 7,7 km</string>
+    <string name="main_route_5_laenge">Länge: 20 km</string>
+    <string name="main_route_6_laenge">Länge: 3,34 km</string>
+    <string name="main_route_7_laenge">Länge: 5,57 km</string>
+
+    //Menue
+    <string name="menu_action_startseite">Startseite</string>
+    <string name="menu_action_map">Map</string>
+    <string name="menu_action_hilfe">Hilfe</string>
+    <string name="menu_action_settings">Einstellungen</string>
+
+    //Route
+    <string name="title_activity_route_eins">Routenübersicht</string>
+    <string name="routen_content">Der insgesamt knapp 53 km lange Rundweg führt den Wanderer durch eine herrliche Auenlandschaft vorbei an Feldern und Wäldern.
+        Illustrierte Informationstafeln beschreiben viele Gegebenheiten, die sich am Wegrand finden. Der Rundweg kann als Ganzes, aber auch in Teilabschnitten erwandert werden.
+        Ein befahren mit dem Fahrrad ist durchaus auch möglich, es gibt jedoch einige Bereiche, in denen es sich anbietet das Rad ein Stück zu schieben.
+        So sind z.B. die Bohlenstege über die Feuchtgebiete nicht zum Befahren geeignet.</string>
+    <string name="routen_heading">Der Kulturhistorische Wassererlebnispfad Hardau</string>
+    <string name="desc_route_1">Route 1</string>
+
+    //Map
+    <string name="title_activity_maps">Map</string>
+    <string name="kamerafolgenaus">Kamera Folgen</string>
+    <string name="kamerafolgenan">Kamera Folgen aus</string>
+    <string name="routen_uebersicht">Routenübersicht</string>
+
+    //Hilfe
+    <string name="title_activity_hilfe">Hilfe</string>
+    <string-array name="hilfe_liste_eintraege">
+        <item>Impressum</item>
+        <item>Bedienungsanleitung</item>
+        <item>Über</item>
+    </string-array>
+
+    //Bedienungsanleitung
+    <string name="title_activity_bedienung">Bedienungsanleitung</string>
+    <string name="bedienungsanleitung_ueberschrift">Überschrift</string>
+    <string name="bedienungsanleitung_infotext">Wähle im Hauptmenü eine Route die du gehen möchtest, zu jeder Route gibt eine eine Übersicht sowie eine Beschreibung zum jeweiligen Text. Über den Explorebutton, kannst du die Route starten. </string>
+
+    //Impressum
+    <string name="title_activity_impressum">Impressum</string>
+    <string name="impressum_ueberschrift_1">Angaben gemäß § 5 TMG:</string>
+    <string name="impressum_text_1">"Max Mustermann"</string>
+    <string name="impressum_text_2">"SudiTouri"</string>
+    <string name="impressum_text_3">Musterstraße 111 Gebäude 44"</string>
+    <string name="impressum_text_4">"90210 Musterstadt"</string>
+    <string name="impressum_ueberschrift_2">Kontakt:</string>
+    <string name="impressum_text_5">"Telefon: +49 (0) 123 44 55 66"</string>
+    <string name="impressum_text_6">"Telefax: +49 (0) 123 44 55 66"</string>
+    <string name="impressum_text_7">"E-Mail: mustermann@musterfirma.de"</string>
+    <string name="impressum_ueberschrift_3">Umsatzsteuer:</string>
+    <string name="impressum_text_8">"Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: "</string>
+    <string name="impressum_text_9">"DE 999 999 999"</string>
+    <string name="impressum_ueberschrift_4">Streitschlichtung:</string>
+    <string name="impressum_text_10">"Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr Unsere E-Mail Adresse finden Sie oben im Impressum."</string>
+    <string name="impressum_text_11">"Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen."</string>
+
+    //Bedienungsanleitung
+    <string name="title_activity_anleitung">Anleitung</string>
+    <string name="hanbuch_bild1">hauptmenü_erklärung</string>
+    <string name="bedienung_hauptmenu_text">Im Hauptmenü gibt es eine Übersicht über alle Routen des kulturhistroische Wassererlebnispfad Hardautal. In dieser App gibt es 7 Routen, vom großen 53km langen Pfad von Uelzen bis Hösseringen oder dem kurzen 5,3km langen Weg rund um Suderburg. Möchtest du einen Weg beginnen drücke einfach auf das entsprechende Bild der Route. Über das  \"+\"- Symbol kannst du über eine URL eine eigene Route hinzufügen. </string>
+    <string name="bedienung_routenmenu_text">Hast du dich für eine Route entschieden, kommst du in die Routenübersicht. Hier gibt es eine kleine Beschreibung und einen Überblick über die gesamte Route. Über den \"Explore\" Button oben rechts kannst du die Route beginnen. Sollte dir die Route nicht gefallen kommst du über den \"Haus Icon\" wieder zurück zum Hauptmenü zurück.</string>
+    <string name="bedienung_mapmenu_text">Mit Hilfe der Map kannst du die Route entlang navigieren. Über die Kamerazentrierung kannst du entscheiden ob die Kamera dir folgen soll oder nicht. Über die Kartenübersicht kannst du dir über Knopfdruck einen Überblick über die gesamte Route verschaffen, ein erneutes drücken plaziert dich wieder über deinen aktuellen Standort.</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hanbuch_bild2">Routenmenu</string>
+    <string name="title_activity_marker">MarkerActivity</string>
+
+    //Über
+    <string name="title_activity_ueber">Über</string>
+    <string name="ueber_titel"><u>Kulturhistorischer Wasser Erlebnispfad Hardautal</u></string>
+    <string name="ueber_text_absatz1">Entlang des Heideflusses "Hardau" führt Sie dieser Lehrpfad rund um das Element Wasser durch eine einmalige Landschaft. Auf einer Länge von 26.5km, beginnend bei
+        Hösseringen mit der Hardauquelle, lernen Sie das Wasser und seine vielfältigen Einsatmöglichkeiten einmal auf andere Weise kennen. Der Wassererlebnispfad ist als Ganzes oder in drei
+        Rundwegen zu erwandern.  </string>
+    <string name="ueber_text_absatz3"> Ob vor 150 Jahren oder heutzutage - das Wasser hat schon immer den Menschen gedient. Auf dem Wassererlebnispfad sehen Sie zum Beispiel wie das Wasser früher
+        Mühlräder antrieb, an sogenannten Waschbänken für saubere Kleidung sorgte oder sogar - wie auf der neu angelegten Rieselwiese zu sehen - als Düngemittel diente. </string>
+    <string name="ueber_text_absatz2">Doch auch moderne Themen,
+        wie die Abwasserreinigung und die Bedeutung des Wassers für die Freizeitgestaltung, werden angesprochen.</string>
+
+    //Fragment Start
+    <string name="start_fragment_ueberschrift">Start des Rundwanderweg Suderburg</string>
+    <string name="start_fragment_text">Dieser besonders ausgeschilderte Rundwanderweg von 5,3 km Länge ist ein Teil des Rundweges Hösseringen Suderburg des Kulturhistorischen Wassererlebnispfad Hardau. In diesem Teil werden Sie über die Rieselwiesen, über das Fließsystem der Hardau, Mühle Oldendorf und auf das alte renovierte Pfarrhaus mit der alten Feldsteinkirche auf Schautafeln informiert. Folgen Sie dem rot/grünen Pfad und halten Sie deshalb stets ausschau, nach den unten gezeigten Tafeln. Zusätzlich treffen Sie auf Tafeln bei denen Sie mehr erleben als bei anderen, aber Erleben Sie es einfach Selbst. Und jetzt viel Spaß bei Ihrer Expedition.</string>
+    <string name="start_fragment_bild1">Bild1</string>
+    <string name="start_fragment_bild2">Bild 2</string>
+    <string name="start_fragment_bild3">Bild 3</string>
+    <string name="start_fragment_bild4">Bild 4</string>
+    <string name="start_fragment_bild5">Bild 5</string>
+    <string name="start_fragment_bild6">Bild 6</string>
+
+    //Fragment Ziel
+    <string name="ziel_fragment_ueberschrift">Ziel des Rundwanderweg Suderburg</string>
+    <string name="ziel_fragment_text">Wir hoffen Sie hatten bei ihrem Rundgang viel Freude, und haben die Natur genossen. Wir würden uns freuen, wenn Sie uns weiterempfehlen würden</string>
+    <string name="ziel_fragment_bild1">Bild1</string>
+    <string name="ziel_fragment_bild2">Bild 2</string>
+    <string name="ziel_fragment_bild3">Bild 3</string>
+    <string name="ziel_fragment_bild4">Bild 4</string>
+    <string name="ziel_fragment_bild5">Bild 5</string>
+    <string name="ziel_fragment_bild6">Bild 6</string>
+
+    //Fragment Hardauspiel
+    <string name="hardau_fragment_ueberschrift">Hardau-Spiel</string>
+    <string name="hardau_fragment_text">Hey! Willkommen beim Real Life Adventure Spiel "Hardau-Spiel". Erkunde die Gegend nach dem unten angezeigten Schild um abenteuerliche Aufgaben und spannenden Rätsel zu lösen. Achte dabei jedoch stets auf Deine Umgebung und begebe Dich nicht in Gefahr.</string>
+    <string name="hardau_fragment_bild1">Bild1</string>
+
+    //Fragment Parkplatz
+    <string name="parkplatz_fragment_ueberschrift">Parkplatz</string>
+    <string name="parkplatz_fragment_text">Hier aufm Parkplatz können Sie sich eine kleine Auszeit vom Wassererlebnispfad nehmen und schonmal planen, wo Sie als nächstes hingehen möchten.</string>
+    <string name="parkplatz_fragment_bild1">Bild1</string>
+    <string name="parkplatz_fragment_bild2">Bild 2</string>
+    <string name="parkplatz_fragment_bild3">Bild 3</string>
+    <string name="parkplatz_fragment_bild4">Bild 4</string>
+    <string name="parkplatz_fragment_bild5">Bild 5</string>
+    <string name="parkplatz_fragment_bild6">Bild 6</string>
+
+    //Fragment Bachspiel
+    <string name="bach_fragment_ueberschrift">Bach-Spiel</string>
+    <string name="bach_fragment_text">Hey! Willkommen beim Real Life Adventure Spiel "Bach-Spiel". Erkunde die Gegend nach dem unten angezeigten Schild um abenteuerliche Aufgaben und spannenden Rätsel zu lösen. Achte dabei jedoch stets auf Deine Umgebung und begebe Dich nicht in Gefahr.</string>
+    <string name="bach_fragment_bild1">Bild1</string>
+
+    //Fragment Baumspiel
+    <string name="baum_fragment_ueberschrift">Baum-Spiel</string>
+    <string name="baum_fragment_text">Hey! Willkommen beim Real Life Adventure Spiel "Baum-Spiel". Erkunde die Gegend nach dem unten angezeigten Schild um abenteuerliche Aufgaben und spannenden Rätsel zu lösen. Achte dabei jedoch stets auf Deine Umgebung und begebe Dich nicht in Gefahr.</string>
+    <string name="baum_fragment_bild1">Bild1</string>
+
+    //Fragment Pferdspiel
+    <string name="pferd_fragment_ueberschrift">Pferdchen-Spiel</string>
+    <string name="pferd_fragment_text">Hey! Willkommen beim Real Life Adventure Spiel "Pferdchen-Spiel". Erkunde die Gegend nach dem unten angezeigten Schild um abenteuerliche Aufgaben und spannenden Rätsel zu lösen. Achte dabei jedoch stets auf Deine Umgebung und begebe Dich nicht in Gefahr.</string>
+    <string name="pferd_fragment_bild1">Bild1</string>
+
+    //Fragment Wasserspiel
+    <string name="wasser_fragment_ueberschrift">Wasser-Spiel</string>
+    <string name="wasser_fragment_text">Hey! Willkommen beim Real Life Adventure Spiel "Wasser-Spiel". Erkunde die Gegend nach dem unten angezeigten Schild um abenteuerliche Aufgaben und spannenden Rätsel zu lösen. Achte dabei jedoch stets auf Deine Umgebung und begebe Dich nicht in Gefahr.</string>
+    <string name="wasser_fragment_bild1">Bild1</string>
+
+    //Fragment Laufhütte
+    <string name="lauf_fragment_ueberschrift">Die Lauftreffhütte</string>
+    <string name="lauf_fragment_text">Der Lauftreff des VfL Suderburg wurde am 28.06.1975 von den Läuferinnen und Läufern der Suderburger Leichtathletikabteilung gegründet, nachdem der Deutsche Sportbund seit 1974 zu einer solchen Institution aufgerufen hatte. Hier ist ein toller Platz eine Pause zu machen, um die Umgebung und Natur zu genießen</string>
+    <string name="lauf_fragment_bild1">Bild1</string>
+    <string name="lauf_fragment_bild2">Bild 2</string>
+    <string name="lauf_fragment_bild3">Bild 3</string>
+    <string name="lauf_fragment_bild4">Bild 4</string>
+    <string name="lauf_fragment_bild5">Bild 5</string>
+    <string name="lauf_fragment_bild6">Bild 6</string>
+
+    //Fragment Station9
+    <string name="station9_fragment_ueberschrift">Alte Rieselwiese: Wasser Recycling anno 1850</string>
+    <string name="station9_fragment_text">Um 1850 errichteten die Bauern im Hardautal die Rieselwiesen. Auf dem First der Rücken, den Rieselrücken, verlief eine schmale Bewässerungsrinne aus der das Wasser gleichmäßig über die Seitenflächen der Rücken rieselte. Ihr Wasser erhielten Sie über die Zuleitungsgräben aus der Hardau. Zwischen den Rücken fingen Entwässerungsrinnen das Wasser wieder auf und leiteten es zur Hardau zurück.</string>
+    <string name="station9_fragment_bild1">Bild 1</string>
+    <string name="station9_fragment_bild2">Bild 2</string>
+    <string name="station9_fragment_bild3">Bild 3</string>
+    <string name="station9_fragment_bild4">Bild 4</string>
+    <string name="station9_fragment_bild5">Bild 5</string>
+    <string name="station9_fragment_bild6">Bild 6</string>
+
+    //Fragment Station10
+    <string name="station10_fragment_ueberschrift">Die rekonstruierte Rieselwiese.</string>
+    <string name="station10_fragment_text">Rieselwiesen dienten dazu,  Menge und Qualität der Heuernte zu steigern. Sie erkennen von hier aus die flach gewölbten Wiesenbeete – die Rücken. Auf dem First jedes Rückens verläuft eine schmale Bewässerungsrinne, die "Bewässerungsgrippe". Zwischen den Wiesenrücken dagegen sorgen die "Entwässerungsgrippen" für die Wasserableitung. Wasser allein genügt nicht, will man viel Heu von guter Qualität erzeugen. Hand in Hand mit einer guten Wasserversorgung muß eine wirksame Entwässerung gehen. Pflanzen brauchen neben Licht für ihr Wachstum vor allem Nähr-stoffe, Wasser und Luft. Das gilt vor allem für die begehrten Süß-gräser, die gute Böden, viel Wasser und einen gut durch- lüfteten Boden lieben. Bis weit ins 19. Jahrhundert waren viele Heidetäler noch durch Bruchwälder und Moore geprägt. Seit 1830 drang der Rückenbau jedoch selbst in die kleinsten Seitentäler vor, bis auch die letzten noch nicht kultivierten Tallandschaften verschwunden waren.</string>
+    <string name="station10_fragment_bild1">Bild1</string>
+    <string name="station10_fragment_bild2">Bild 2</string>
+    <string name="station10_fragment_bild3">Bild 3</string>
+    <string name="station10_fragment_bild4">Bild 4</string>
+    <string name="station10_fragment_bild5">Bild 5</string>
+    <string name="station10_fragment_bild6">Bild 6</string>
+
+    //Fragment Station11
+    <string name="station11_fragment_ueberschrift">"Wasserwege" Von der Hardauquelle in die Nordsee</string>
+    <string name="station11_fragment_text">Der Lüß ist ein Endmoränenzug aus der vorletzten Eiszeit und bildet die Wasserscheide zwischen Elbe und Weser: Alle Bäche, die südlich des Lüß-Höhenzuges entspringen, fließenüber die Aller in die Weser. Die Bäche, die nördlich davon entspringen fließen in die Nordsee. So fließt der Räberspringbach in die Hardau. Die Hardau fließt hinter Holdenstedt in die Gerdau. Die Gerdau fließt mit der Stederau zusammen und bildet in Uelzen beginnend die Ilmenau. Die Ilmenau fließt hinter Winsen, Luhe in die Elbe. Die Elbe fließt hinter Hamburg in die Nordsee.</string>
+    <string name="station11_fragment_bild1">Bild1</string>
+    <string name="station11_fragment_bild2">Bild 2</string>
+    <string name="station11_fragment_bild3">Bild 3</string>
+    <string name="station11_fragment_bild4">Bild 4</string>
+    <string name="station11_fragment_bild5">Bild 5</string>
+    <string name="station11_fragment_bild6">Bild 6</string>
+
+    //Fragment Station12
+    <string name="station12_fragment_ueberschrift">Wassermühle Oldendorf</string>
+    <string name="station12_fragment_text">Wie alle Hardaumühlen wurde die 1338 erstmals urkundlich erwähnte Oldendorfer Mühle bereits im Mittelalter. Oberhalb Oldendorfs durchfließt die Hardau eine weite Talniederung; unterhalb der Brücke nach Hösseringen tritt sie in einen Abschnitt mit relativ großem Gefälle: Optimale Voraussetzungen für den Bau von Wassermühlen. So arbeiteten hier jahrhundertelang zwei Wassermühlen im Abstand von wenigen hundert Metern: Die Oldendorfer und die Suderburger Mühle.</string>
+    <string name="station12_fragment_bild1">Bild1</string>
+    <string name="station12_fragment_bild2">Bild 2</string>
+    <string name="station12_fragment_bild3">Bild 3</string>
+    <string name="station12_fragment_bild4">Bild 4</string>
+    <string name="station12_fragment_bild5">Bild 5</string>
+    <string name="station12_fragment_bild6">Bild 6</string>
+
+    //Fragment Station13
+    <string name="station13_fragment_ueberschrift">Das Suderburger Pfarrhaus</string>
+    <string name="station13_fragment_text">Am Suderburger Pfarrhaus gab  es lange Zeit keine wesentlichen Umbauten. So blieb die historische Bausubstanz auch weitgehend erhalten. 1994 war der Abriss geplant, doch eine Bürgerinitiative protestierte mit Erfolg. Zwischen 1995 und 1997 konnte das Pfarrhaus daraufhin mit Mitteln der EU und der "Dorferneuerung" unter denkmalpflegerischen Gesichtspunkten restauriert werden.</string>
+    <string name="station13_fragment_bild1">Bild1</string>
+    <string name="station13_fragment_bild2">Bild 2</string>
+    <string name="station13_fragment_bild3">Bild 3</string>
+    <string name="station13_fragment_bild4">Bild 4</string>
+    <string name="station13_fragment_bild5">Bild 5</string>
+    <string name="station13_fragment_bild6">Bild 6</string>
+
+    //Irgendwas
+    <string name="title_activity_fullscreen_image">FullscreenImageActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="menu_action_back">Zurück</string>
+    <string name="fragment_dummy_nachricht">Hier ist noch nichts vorhanden</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="Pfeil_links"><![CDATA[<---]]></string>
+    <string name="Pfeil_rechts"><![CDATA[--->]]></string>
+
+
+</resources>

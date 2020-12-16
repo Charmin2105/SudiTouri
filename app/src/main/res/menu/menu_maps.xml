@@ -1,0 +1,48 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.suditouri_ostfalia_android.suditouri.MapsActivity">
+    <item
+        android:id="@+id/menu_action_folgen_an"
+        android:icon="@drawable/ic_person_pin_circle_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/kamerafolgenan"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_action_folgen_aus"
+        android:icon="@drawable/ic_location_disabled_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/kamerafolgenaus"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_action_mapzoom_in"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_map_white_24dp"
+        android:title="@string/routen_uebersicht"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_action_mapzoom_out"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_zoom_out_map_white_24dp"
+        android:title="@string/routen_uebersicht"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_action_startseite"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_startseite"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_action_hilfe"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_hilfe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_action_settings"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_settings"
+        app:showAsAction="never" />
+</menu>

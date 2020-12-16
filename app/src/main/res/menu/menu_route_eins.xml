@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.suditouri_ostfalia_android.suditouri.RoutenActivity">
+    <item
+        android:id="@+id/menu_action_startseite"
+        android:icon="@drawable/ic_home_white_24dp"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_startseite"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_action_hilfe"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_hilfe"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_action_settings"
+        android:orderInCategory="100"
+        android:title="@string/menu_action_settings"
+        app:showAsAction="never" />
+
+</menu>

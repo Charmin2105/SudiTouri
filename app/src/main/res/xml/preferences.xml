@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="gps_category"
+        android:title="GPS Einstellungen">
+
+        <SwitchPreference
+            android:title="Position Folgen"
+            android:summary="Automatische Kamera Updates"
+            android:defaultValue="true"
+            android:key="key_gps_postion_folgen"
+            />
+
+        <EditTextPreference
+            android:dialogTitle="Intervall"
+            android:dialogMessage="Intervall in Sekunden"
+            android:inputType="numberDecimal"
+            android:digits="0123456789"
+            android:key="key_gps_min_intervall"
+            android:title="GPS intervall"
+            android:defaultValue="1"
+            android:summary="Intervall in Sekunden"
+            android:dependency="key_gps_postion_folgen"
+            />
+
+        <EditTextPreference
+            android:defaultValue="5"
+            android:dependency="key_gps_postion_folgen"
+            android:dialogMessage="Bewegung in Metern"
+            android:dialogTitle="Bewegung"
+            android:digits="0123456789"
+            android:inputType="numberDecimal"
+            android:key="key_gps_min_bewegung"
+            android:summary="Mindestabstand für GPS neu Positionierung in Meter"
+            android:title="GPS Bewegung" />
+
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="map_category"
+        android:title="Karten Einstellungen">
+    <ListPreference
+        android:key="key_map_type"
+        android:title="Kartentyp Auswählen"
+        android:entries="@array/map_type"
+        android:entryValues="@array/map_values"
+        android:defaultValue="1"
+        android:summary="Wähle einen Kartentyp"
+        />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="debug_category"
+        android:title="Entwickler Einstellungen"
+        android:enabled="true">
+        <SwitchPreference
+            android:title="SudiPunkt Distanz Checken"
+            android:summary="Checkt ob man sich im Radius des Sudipunktes befindet"
+            android:defaultValue="true"
+            android:key="key_sudipunkt_distanz"
+            />
+    </PreferenceCategory>
+</PreferenceScreen>

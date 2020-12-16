@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="map_type">
+    <item>Keine</item>
+    <item>Standard</item>
+    <item>Satellit</item>
+    <item>Terrain</item>
+    <item>Hybrid</item>
+</string-array>
+<string-array name="map_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+</string-array>
+</resources>

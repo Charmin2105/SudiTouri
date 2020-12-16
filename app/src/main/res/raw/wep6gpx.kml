@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+  
+  <name>Wassererlebnispfad WEP6 – Rundwanderweg Hösseringen</name>
+  <description>WEP Hösseringen – Suderburg – Holdenstedt - Uelzen&lt;br /&gt;
+&lt;br /&gt;
+Der Kulturhistorische Wassererlebnispfad Hardau. Der insgesamt knapp 60 km lange Rundweg führt den Wanderer durch eine herrliche Auenlandschaft vorbei an Feldern und Wäldern. Illustrierte Informationstafeln beschreiben viele Gegebenheiten, die sich am Wegrand finden. Der Rundweg kann als Ganzes, aber auch in Teilabschnitten erwandert werden. Ein befahren mit dem Fahrrad ist durchaus auch möglich, es gibt jedoch einige Bereiche, in denen es sich anbietet das Rad ein Stück zu schieben. So sind z.B. die Bohlenstege über die Feuchtgebiete nicht zum Befahren geeignet.</description>
+	
+  <LookAt>
+  
+    <longitude>10.406689921939</longitude>
+    <latitude>52.843313552071</latitude>
+    <altitude>0</altitude>
+    <range>10000</range>
+    <tilt>30</tilt>
+    <heading>-1</heading>
+  </LookAt>
+	
+  <Placemark>
+    <name>Info: &lt;A href=&quot;http://navigator.geolife.de/tour-901000027-8000.html&quot;&gt;navigator.geolife.de&lt;/A&gt;</name>
+    <Style>
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pal3/icon35.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+  </Placemark>
+
+  <Placemark>
+    <name>Tourenverlauf</name>
+    <Style>
+      <LineStyle>
+        <color>ff00f6ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <MultiGeometry>
+      <LineString>
+       <tessellate>1</tessellate>
+       <coordinates>
+10.406689921939,52.843313552071,0 10.405484050454,52.843660353905,0 10.405779014975,52.844061265717,0 10.40610133602,52.844389958194,0 10.406623808216,52.844940947278,0 10.407030226343,52.845115864633,0 10.40724783074,52.845418835322,0 10.407558824068,52.845855499845,0 10.407912882913,52.846246718561,0 10.408145337036,52.84654951141,0 10.408370813029,52.846636703395,0 10.408564868608,52.846670347138,0 10.409243916552,52.846554442628,0 10.409622711852,52.846334259918,0 10.411006674451,52.845985298732,0 10.412007465007,52.84572176293,0 10.412486057453,52.845832895178,0 10.414480190546,52.846447203515,0 10.414540125798,52.846464462639,0 10.414646035245,52.84652610767,0 10.414845355048,52.846721440956,0 10.416375943936,52.848141069974,0 10.417096760414,52.84885140834,0 10.417961887689,52.849434202666,0 10.418338129447,52.849591468598,0 10.418444051906,52.84965311012,0 10.41907090986,52.850211784015,0 10.41968353135,52.850788598575,0 10.419560828758,52.851122578409,0 10.418555964727,52.851718737771,0 10.417972343923,52.852031264594,0 10.417884184966,52.852059278436,0 10.417854505716,52.852059633065,0 10.417780600479,52.852069502908,0 10.417501773887,52.851713361844,0 10.416822581017,52.851370987969,0 10.416113720246,52.851028964304,0 10.415553554723,52.850694149502,0 10.415184843955,52.850312114873,0 10.414781493661,52.849777716456,0 10.414361269611,52.849180610171,0 10.414478455726,52.84867595225,0 10.41400093804,52.848142435258,0 10.413941584784,52.848143142531,0 10.413633722797,52.847805312041,0 10.413091035663,52.847092831684,0 10.412349350206,52.84619399474,0 10.411935027193,52.845776545762,0 10.411655446746,52.845851766735,0 10.410669488672,52.846115123198,0 10.409638423022,52.84636103368,0 10.409230243014,52.846590552234,0 10.40895036156,52.846656783547,0 10.408477296086,52.846716320682,0 10.408117115601,52.846594780329,0 10.407607988381,52.84599870545,0 10.407111097096,52.845321602079,0 10.406986586127,52.845143342526,0 10.406550202859,52.844959793435,0 10.405721699285,52.844124852383,0 10.405379612087,52.84364361736,0 10.405408415017,52.843616315793,0 10.4066294131,52.843278322201,0         </coordinates>
+      </LineString>
+    </MultiGeometry>
+  </Placemark>
+  
+  <Folder>
+    <name>Ziele entlang der Tour</name>
+    <open>1</open>
+
+    <Placemark>
+      <name>Museumsdorf Hösseringen</name>
+      <description></description>
+      <Point>
+        <coordinates>10.40992734262,52.844392817121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Historischer Landtagsplatz</name>
+      <description></description>
+      <Point>
+        <coordinates>10.409605736298,52.843173941796,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haus des Gastes - Tourist Info</name>
+      <description></description>
+      <Point>
+        <coordinates>10.417719263273,52.858864462435,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aussichtsturm Hösseringen</name>
+      <description></description>
+      <Point>
+        <coordinates>10.407420134178,52.864201414523,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hardausee Hösseringen</name>
+      <description></description>
+      <Point>
+        <coordinates>10.431080619996,52.870841194101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kiosk am Hardausee</name>
+      <description></description>
+      <Point>
+        <coordinates>10.43003736817,52.87119539757,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Heidefläche Hösseringen</name>
+      <description></description>
+      <Point>
+        <coordinates>10.419428117046,52.849781724572,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>	
+</Document>
+</kml>
